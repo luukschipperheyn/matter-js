@@ -10,6 +10,7 @@
     "type": "git",
     "url": "https://github.com/liabru/matter-js.git"
   },
+  "types": "./node_modules/@types/matter-js/index.d.ts",
   "keywords": [
     "javascript",
     "canvas",
@@ -20,6 +21,7 @@
     "rigid body physics"
   ],
   "devDependencies": {
+    "@types/matter-js": "^0.18.5",
     "conventional-changelog-cli": "^2.1.1",
     "eslint": "^6.8.0",
     "html-webpack-plugin": "^4.5.1",
